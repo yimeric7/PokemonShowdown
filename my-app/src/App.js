@@ -2,9 +2,9 @@ import './App.css';
 import PokeShowdown from "./PokeShowdown";
 import Pokedex from "./Pokedex";
 import './Pokedex.css'
+import React from "react";
 
 function App() {
-
   return (
       <div className="App">
           <PokeShowdown/>

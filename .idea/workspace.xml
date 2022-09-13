@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9623d480-613a-431f-a6e3-8bce0622723a" name="Changes" comment="finishing up">
+    <list default="true" id="9623d480-613a-431f-a6e3-8bce0622723a" name="Changes" comment="adding to pokeex">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/PokeShowdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/PokeShowdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/Pokedex.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Pokedex.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eyim/ReactPractice/MyersBriggsType",
+    "last_opened_file_path": "C:/Users/eyim/ReactPractice/PokemonShowdown",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662664591658</updated>
       <workItem from="1662664593918" duration="8636000" />
-      <workItem from="1663080375088" duration="10891000" />
+      <workItem from="1663080375088" duration="11302000" />
+      <workItem from="1663101426805" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="adding pokecard">
       <created>1662668293867</created>
@@ -75,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663094924785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding to pokeex">
+      <created>1663095915653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663095915653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding to pokeex">
+      <created>1663096006156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663096006156</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +111,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding pokecard" />
     <MESSAGE value="finishing up" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing up" />
+    <MESSAGE value="adding to pokeex" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding to pokeex" />
   </component>
 </project>
