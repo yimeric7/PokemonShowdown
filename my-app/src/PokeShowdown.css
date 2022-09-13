@@ -1,0 +1,14 @@
+.PokeShowdown {
+    text-align: center;
+}
+.PokeShowdown-winner {
+    text-align: center;
+    color: green;
+}
+.PokeShowdown-loser {
+    text-align: center;
+    color: red;
+}
+.PokeShowdown-data {
+    text-align: center;
+}

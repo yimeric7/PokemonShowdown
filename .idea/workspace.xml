@@ -4,15 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9623d480-613a-431f-a6e3-8bce0622723a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/src/Pokecard.js" afterDir="false" />
+    <list default="true" id="9623d480-613a-431f-a6e3-8bce0622723a" name="Changes" comment="adding pokecard">
+      <change afterPath="$PROJECT_DIR$/my-app/src/PokeShowdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/PokeShowdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pokecard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pokedex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/Pokedex.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Pokecard.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Pokecard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eyim/ReactPractice/MyersBriggsType",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,8 +65,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662664591658</updated>
-      <workItem from="1662664593918" duration="2838000" />
+      <workItem from="1662664593918" duration="8636000" />
+      <workItem from="1663080375088" duration="9701000" />
     </task>
+    <task id="LOCAL-00001" summary="adding pokecard">
+      <created>1662668293867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662668293867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding pokecard" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding pokecard" />
   </component>
 </project>
