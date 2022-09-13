@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9623d480-613a-431f-a6e3-8bce0622723a" name="Changes" comment="adding pokecard">
-      <change afterPath="$PROJECT_DIR$/my-app/src/PokeShowdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/PokeShowdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/Pokecard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/Pokedex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/Pokedex.js" afterDir="false" />
+    <list default="true" id="9623d480-613a-431f-a6e3-8bce0622723a" name="Changes" comment="finishing up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/Pokecard.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Pokecard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/PokeShowdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/PokeShowdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Pokedex.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Pokedex.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662664591658</updated>
       <workItem from="1662664593918" duration="8636000" />
-      <workItem from="1663080375088" duration="9701000" />
+      <workItem from="1663080375088" duration="10891000" />
     </task>
     <task id="LOCAL-00001" summary="adding pokecard">
       <created>1662668293867</created>
@@ -75,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662668293867</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finishing up">
+      <created>1663094924785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663094924785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding pokecard" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding pokecard" />
+    <MESSAGE value="finishing up" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing up" />
   </component>
 </project>

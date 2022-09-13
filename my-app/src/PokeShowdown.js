@@ -5,16 +5,16 @@ import './PokeShowdown.css';
 class PokeShowdown extends Component {
     static defaultProps = {
         pokemon: [
-            {id: 1, name: 'Bulbasaur', type: 'grass', base_experience: 12},
-            {id: 4, name: 'Charmander', type: 'fire', base_experience: 62},
+            {id: 151, name: 'Mew', type: 'psychic', base_experience: 400},
+            {id: 150, name: 'Mewtwo', type: 'psychic', base_experience: 400},
             {id: 6, name: 'Charizard', type: 'fire', base_experience: 365},
-            {id: 7, name: 'Squirtle', type: 'water', base_experience: 63},
-            {id: 11, name: 'Metapod', type: 'bug', base_experience: 72},
-            {id: 12, name: 'Butterfree', type: 'flying', base_experience: 178},
-            {id: 25, name: 'Pikachu', type: 'electric', base_experience: 112},
-            {id: 39, name: 'Jigglypuff', type: 'normal', base_experience: 95},
-            {id: 94, name: 'Gengar', type: 'poison', base_experience: 225},
-            {id: 133, name: 'Eevee', type: 'normal', base_experience: 65}
+            {id: 130, name: 'Gyarados', type: 'water', base_experience: 352},
+            {id: 9, name: 'Blastoise', type: 'water', base_experience: 344},
+            {id: 143, name: 'Snorlax', type: 'normal', base_experience: 373},
+            {id: 149, name: 'Dragonite', type: 'dragon', base_experience: 366},
+            {id: 144, name: 'Articuno', type: 'ice', base_experience: 432},
+            {id: 145, name: 'Zapdos', type: 'electric', base_experience: 427},
+            {id: 146, name: 'Moltres', type: 'fire', base_experience: 431}
         ]
     };
 
