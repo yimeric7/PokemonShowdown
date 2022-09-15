@@ -1,8 +1,8 @@
 # PokemonShowdown
 
 to start:
-cd my-app
-npm start
+1. cd my-app
+2. npm start
 
 Renders pokedex with the orginal 151 Gen I Pokemon. Each pokemon has a experience level attached to it. 
 
